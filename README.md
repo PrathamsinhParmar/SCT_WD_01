@@ -184,7 +184,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 SkillCraft Technology - [contact@skillcraft.tech](mailto:contact@skillcraft.tech)
 
-Project Link: https://github.com/PrathamsinhParmar/SCT_WD_01.git
+Project Link: https://prathamsinhparmar.github.io/SCT_WD_01/
 
 ---
 Made with ❤️ by SkillCraft Technology Team 
