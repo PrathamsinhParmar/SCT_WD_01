@@ -12,6 +12,7 @@ A modern, responsive website for SkillCraft Technology, an educational and inter
 - **Performance Optimized**: Fast loading times with optimized images and assets
 - **SEO Ready**: Implemented with best SEO practices
 - **Accessibility**: WCAG compliant with proper semantic HTML
+- **Brand Identity**: Custom favicon and logo for consistent branding
 
 ## 📱 Pages
 
@@ -77,7 +78,9 @@ skillcraft-technology/
 │   └── main.js
 ├── assets/
 │   ├── images/
+│   │   └── logo.png
 │   └── icons/
+│       └── favicon.png
 └── README.md
 ```
 
