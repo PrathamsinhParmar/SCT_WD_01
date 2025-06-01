@@ -1,8 +1,8 @@
-# SkillCraft Technology Website
+# Zenify Technology Pvt Ltd Website
 
-A modern, responsive website for SkillCraft Technology, an educational and internship services company based in Mumbai.
+A modern, responsive website for Zenify Technology Pvt Ltd, an educational and internship services company based in Mumbai.
 
-![SkillCraft Technology](assets/images/logo.png)
+![Zenify Technology Pvt Ltd](assets/images/logo.png)
 
 ## 🚀 Features
 
@@ -182,9 +182,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contact
 
-SkillCraft Technology - [contact@skillcraft.tech](mailto:contact@skillcraft.tech)
+Email: [prathamgj2@gmail.com](mailto:prathamgj2@gmail.com)
+Location: Vadodara, Gujarat, India
 
 Project Link: https://prathamsinhparmar.github.io/SCT_WD_01/
 
 ---
-Made with ❤️ by SkillCraft Technology Team 
+Made with ❤️ by Zenify Technology Pvt Ltd Team 
